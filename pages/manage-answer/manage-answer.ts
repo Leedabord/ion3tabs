@@ -3,7 +3,7 @@ import { NavParams, ViewController } from 'ionic-angular';
 import { isPresent } from 'ionic-angular/util/util';
 import { Validators, FormGroup, FormControl} from '@angular/forms';
 import { AnswerService } from '../../services/answer.service';
-import { Answer } from '../../../sdk';
+import { Answer } from '../../sdk';
 
 
 @Component({
