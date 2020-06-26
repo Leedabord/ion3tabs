@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { AnswerApi, Answer } from '../../sdk';
+import { AnswerApi, Answer } from '../sdk';
 import 'rxjs/add/operator/toPromise';
 
 @Injectable()

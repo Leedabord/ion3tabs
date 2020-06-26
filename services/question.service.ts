@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { QuestionApi, Question, LoopBackFilter } from '../../sdk';
+import { QuestionApi, Question, LoopBackFilter } from '../sdk';
 import 'rxjs/add/operator/toPromise';
 
 @Injectable()
